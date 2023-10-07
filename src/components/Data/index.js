@@ -1,0 +1,32 @@
+export const Navdata=[
+    {
+        title:'Home',
+        path:'/',
+        xs:2
+    },
+    {
+        title:'Product List',
+        path:'/productlist',
+        xs:2
+    },
+    {
+        title:'Categories',
+        path:'/cat',
+        xs:3
+    },
+    {
+        title:'Users',
+        path:'/users',
+        xs:1
+    },
+    {
+        title:'Comments',
+        path:'/comments',
+        xs:2
+    },
+    {
+        title:'Posts',
+        path:'/posts',
+        xs:1
+    }
+]
